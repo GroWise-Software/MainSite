@@ -12,7 +12,7 @@ const works = [
     bg: "url('/meenakshi.png') center/cover no-repeat",
   },
   {
-    title: "Re Active— Physiotherapy clinic",
+    title: "ReActive— Physiotherapy clinic",
     tags: ["software", "dashboard"],
     bg: "url('/REACTIVE.PNG') center/cover no-repeat",
   },

@@ -27,6 +27,8 @@ function Logo() {
         alt="GroWise" 
         width={340} 
         height={85} 
+        priority
+        loading="eager"
         className="h-[40px] md:h-[75px] w-auto object-contain mix-blend-multiply dark:mix-blend-screen invert dark:invert-0 transition-all duration-500 md:scale-125 origin-left" 
       />
     </Link>
