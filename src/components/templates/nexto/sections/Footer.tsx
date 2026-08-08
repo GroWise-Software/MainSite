@@ -1,8 +1,10 @@
 import Image from "next/image";
 
+import Link from "next/link";
+
 function Logo() {
   return (
-    <a href="/" className="flex items-center gap-[9px]" aria-label="GroWise home">
+    <Link href="/" className="flex items-center gap-[9px]" aria-label="GroWise home">
       <Image 
         src="/logo.png" 
         alt="GroWise" 
@@ -10,7 +12,7 @@ function Logo() {
         height={85} 
         className="h-[40px] md:h-[75px] w-auto object-contain mix-blend-multiply dark:mix-blend-screen invert dark:invert-0 transition-all duration-500 md:scale-125 origin-left" 
       />
-    </a>
+    </Link>
   );
 }
 

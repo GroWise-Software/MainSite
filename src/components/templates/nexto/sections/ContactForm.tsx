@@ -21,12 +21,12 @@ export default function ContactForm() {
           <div className="nexto-glow-pink absolute rounded-full -z-10 opacity-20" style={{ inset: "auto auto -10% -10%" }} />
           
           <div className="mb-10 text-center">
-            <span className="nexto-eyebrow text-[var(--text-main)] bg-[var(--eyebrow-bg)] transition-colors duration-500">let's talk</span>
+            <span className="nexto-eyebrow text-[var(--text-main)] bg-[var(--eyebrow-bg)] transition-colors duration-500">let&apos;s talk</span>
             <h2 className="mt-[18px] text-[clamp(28px,3.5vw,42px)] font-medium tracking-[-1.2px] leading-[1.1] text-[var(--text-main)] transition-colors duration-500">
               Ready to start your project?
             </h2>
             <p className="text-[15px] text-[var(--text-secondary)] mt-4 max-w-[440px] mx-auto leading-[1.6] transition-colors duration-500">
-              Let us know what you're looking to build. We'll get back to you within 24 hours with the next steps, timelines, and transparent pricing.
+              Let us know what you&apos;re looking to build. We&apos;ll get back to you within 24 hours with the next steps, timelines, and transparent pricing.
             </p>
           </div>
 
